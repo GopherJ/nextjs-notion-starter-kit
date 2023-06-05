@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "CJ' Blog",
-  domain: 'https://alexcj96.notion.site/Notion-is-awesome-97d27de9a93a45d8a87c6985ecea15d5',
+  name: "CJ's Blog",
+  domain: 'https://alexcj96.notion.site/alexcj96/Alex-s-HOME-97d27de9a93a45d8a87c6985ecea15d5',
   author: 'Cheng JIANG',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: "CJ's Blog",
 
   // social usernames (optional)
   twitter: '0xJ_C',
