@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "CJ's Blog",
-  domain: 'https://alexcj96.notion.site/alexcj96/Alex-s-HOME-97d27de9a93a45d8a87c6985ecea15d5',
+  domain: 'https://www.notion.so/0x1b3f3fd/CJ-s-Blog-97d27de9a93a45d8a87c6985ecea15d5',
   author: 'Cheng JIANG',
 
   // open graph metadata (optional)
